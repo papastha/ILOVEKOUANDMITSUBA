@@ -64,7 +64,7 @@ body {
 }
 
 .enter-button:hover {
-    color: #d58eae;
+    color: black;
     transform: scale(1.1);
 }
 

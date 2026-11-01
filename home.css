@@ -10,13 +10,13 @@
 }
 
 body {
-    background-image: url("background.jpg");
+    background-image: url("home.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     font-family: "Custom";
-    color: #624b5a;
+    color: black;
 }
 
 header {
@@ -33,5 +33,25 @@ header {
     font-size: clamp(30px, 5vw, 55px);
     color: black;
     letter-spacing: 3px;
-    text-shadow: 2px 2px #fff;
+}
+
+.commentary {
+    max-width: 750px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.commentary h2 {
+    font-size: clamp(25px, 4vw, 36px);
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 35px;
+    border-bottom: 2px dotted black;
+}
+
+.commentary p {
+    font-size: 20px;
+    line-height: 1.9;
+    margin-bottom: 22px;
+    color: black;
 }
