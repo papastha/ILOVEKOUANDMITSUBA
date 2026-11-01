@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "Custom";
+    src: url("home.ttf") format("truetype");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: "Custom";
+    color: #624b5a;
+}
+
+header {
+    text-align: center;
+    margin: 40px auto 60px;
+}
+
+.page {
+    max-width: 850px;
+    margin: auto;
+}
+
+.caption {
+    font-size: clamp(30px, 5vw, 55px);
+    color: black;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px #fff;
+}
