@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url("home.jpg");
+    background-image: url("./images/home.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -73,7 +73,7 @@ header {
 }
 
 .ally-page {
-    background-image: url("ally.jpg");
+    background-image: url("images/ally.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
