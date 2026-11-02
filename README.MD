@@ -23,3 +23,4 @@ The animation is still tomfoolery to me, learnt the structure from instagram ree
 
 # Screenshots
 
+![alt text](<Screenshot 2026-11-02 124755.png>) ![alt text](<Screenshot 2026-11-02 124717.png>) ![alt text](<Screenshot 2026-11-02 124740.png>)
